@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ffmpeg Converter", "ffmpeg Converter.csproj", "{46440D92-0551-43EC-9A82-8B77E9B1966F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46440D92-0551-43EC-9A82-8B77E9B1966F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46440D92-0551-43EC-9A82-8B77E9B1966F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46440D92-0551-43EC-9A82-8B77E9B1966F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46440D92-0551-43EC-9A82-8B77E9B1966F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2D0F3F0-3A1A-48A1-A43D-17E8E6EA2F08}
+	EndGlobalSection
+EndGlobal
